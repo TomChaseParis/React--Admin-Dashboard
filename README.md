@@ -12,7 +12,7 @@ React Admin Dashboard Tutorial from scratch. We will be using React, Material UI
 
 ### data (mockData.js, mockGeoFeatures.js)
 
-### components
+### components (header.jsx)
 
 ### scenes - dashboard (index.jsx)
 
